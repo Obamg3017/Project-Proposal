@@ -1,6 +1,6 @@
 # Project Proposal
 
-## Basketball Card Match Game 🏀
+## Basketball Card Memory Match Game 🏀
 
 ## Project Description
 
