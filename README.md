@@ -1,11 +1,10 @@
 # Project Proposal
 
-## Basketball Card Memory Match Game 🏀
+## Basketball Memory Match Game 🏀
 
 ## Project Description
 
-My app is called Basketball Cards Match. It's a game app for players who enjoy testing their memory skills & Basketball. Players can flip two cards at a time to find matching pairs. The game is designed for single players, with the goal of finding all matches in the fewest moves possible. The game features an NBA theme that will display NBA players as cards. If a player matches a pair within their alloted moves, they win, if not, they lose. Players will have the ability to reset the game and try again to potentially win! So without further ado, lets get it! Future updates will include multiplayer modes and customizable card sets.
-
+My app is called Basketball Memory Match. It's a game app for players who love basketball and also enjoy testing their memory skills. Players can flip two images at a time to find matching pairs. The game is designed for single players, with the goal of finding all matches in the fewest moves possible. The game features an NBA theme that will display NBA players images. If a player matches a pair within their alloted moves, they win, if not, they lose. Players will have the ability to reset the game and try again to potentially win! So without further ado, lets get it!
 ## Wire Frames
 
 ![Computer with Code](./assets/initialView.png)
@@ -35,9 +34,9 @@ My app is called Basketball Cards Match. It's a game app for players who enjoy t
 
 ### Pseudo Code:
 
-#### Setup initial variables and constants:
-
 ```javascript
+//Setup initial variables and constants:
+
 //DECLARE board as an array
 //DECLARE turn as string
 //DECLARE moves as integer
@@ -45,55 +44,49 @@ My app is called Basketball Cards Match. It's a game app for players who enjoy t
 //DECLARE IMAGES as array of NBA player images
 //DECLARE board as an array
 //DECLARE TOTAL_PAIRS as integer equal to the number of pairs needed
-```
 
-#### Cache DOM elements:
-```javascript
+//Cache DOM elements:
+
 //DECLARE startButton 
 //DECLARE resetButton
 //DECLARE messageEl
 //DECLARE moveCounterEl
 //DECLARE gameBoardEl
 //DECLARE cardEl
-```
 
-#### Event Listeners:
-```javascript
+//Event Listeners:
+
 //ADD event listener to startButton for click to startGame function
 //ADD event listener to resetButton to resetGame function
 //ADD event listener to each cardEl for click to handle card click function
-```
-#### Start Game Functionality:
-``` javascript
+
+//Start Game Functionality:
+
 //Function startGame
 //Function initGame
 //Function loadImages
 //Function Random-Shuffle Images
-```
 
-#### Rendering the Game Board:
-```javascript
+//Rendering the Game Board:
 //Function RenderBoard
 //Loop through board array
-```
 
-#### Handle Card Clicks & Matching Logic:
-``` javascript
+//Handle Card Clicks & Matching Logic:
+
 //Conditionals to check IF card was clicked to flip card
 //Else do not flip card
 //Check for match
-```
-#### End Game & Reset Functionality:
-``` javascript
+
+//End Game & Reset Functionality:
+
 //Function End Game
 //check for winner
 //check for loser
-```    
-```javascript
+
 //Function Reset Game
 ```
-
-### To-Do-List: [Project Management Notion Link](https://factual-birth-40e.notion.site/To-Do-List-for-Basketball-Memory-Match-Game-31900040e64e4f78be9497cb54130c9f)
+### To-Do-List: 
+[Project Management Notion Link](https://factual-birth-40e.notion.site/To-Do-List-for-Basketball-Memory-Match-Game-31900040e64e4f78be9497cb54130c9f)
 
 ### Timeline-Daily Accountability
 
