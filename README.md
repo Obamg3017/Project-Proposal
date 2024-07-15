@@ -7,11 +7,11 @@
 My app is called Basketball Memory Match. It's a game app for players who love basketball and also enjoy testing their memory skills. Players can flip two images at a time to find matching pairs. The game is designed for single players, with the goal of finding all matches in the fewest moves possible. The game features an NBA theme that will display NBA players images. If a player matches a pair within their alloted moves, they win, if not, they lose. Players will have the ability to reset the game and try again to potentially win! So without further ado, lets get it!
 ## Wire Frames
 
-![Computer with Code](./assets/initialView.png)
+![Wire Frame](./assets/initialView.png)
 
-![Computer with Code](./assets/winningView.png)
+![Wire Frame2](./assets/winningView.png)
 
-![Computer with Code](./assets/losingView.png)
+![Wire Frame3](./assets/losingView.png)
 
 ## User Stories
 
